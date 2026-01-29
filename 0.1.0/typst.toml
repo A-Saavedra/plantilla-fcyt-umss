@@ -1,0 +1,8 @@
+[package]
+name = "ing-informatica"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Alex Saavedra <alexcrisangel@gmail.com>"]
+license = "MIT"
+description = "Plantilla de alta visibilidad con colores optimizados para proyectores desgastados."
+categories = ["presentation"]
